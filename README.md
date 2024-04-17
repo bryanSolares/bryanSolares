@@ -1,35 +1,32 @@
-<!--<p align="center" width="300">
-   <img align="center" width="200" src="" />
-   <h3 align="center">👋 Hola mi nombre es Bryan Solares 👋</h3>
-</p>-->
+<img align="right" alt="AWS Solutions Architect Associate" src="https://github.com/bryanSolares/bryanSolares/blob/main/aws-certified-developer-associate.png?raw=true" width="100" height="100" />
+<img align="left" alt="AWS Developer Associate" src="https://github.com/bryanSolares/bryanSolares/blob/main/aws-certified-solutions-architect-associate.png?raw=true" width="100" height="100" />
+
+<h1 align="center">👋 Hola mi nombre es Bryan Solares 👋</h1>
 
 <p align="center"> 👀 <strong>Soy un desarrollador backend y arquitecto AWS</strong>, me he esmerado en estar en constante aprendizaje 🧑‍💻📚 y evolución 👣. </p>
 <p align="center"> Me encantan los retos 🥳 y poder solucionar problemas de la forma más eficiente posible 😊. </p>
 
-## Conocimientos:
- * AWS
- * Javascript
- * Typescript
- * HTML
- * CSS
- 
- * Angular
- * Ionic
- 
- * NodeJS
- * SQL SERVER
- * Git
-   
-### Me puedes contactar mediante los correos 📫
-  - solares.josue@outlook.com 
-  - solares.bryan@outlook.com
- 
+<h2 align="center">Conocimientos y habilidades</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,bash,nodejs,docker,git,express,nestjs,spring,sequelize,html,css,js,ts,angular,java,github,gitlab,heroku,graphql,jest,mysql,postgres,mongodb,firebase,redis,nginx,jenkins,kubernetes,terraform&perline=8" />
+  </a>
+</p>
+
+<h2 align="center">Puedes contactarme! 📫</h2>
+
+- 🫡 [Puedes contactarme aquí📫](mailto:solares.josue@outlook.com)
+- 🫡 [O también, puedes contactarme aquí📫](mailto:solares.bryan@outlook.com)
+
 También puedes visitar mi página Web [Bryan Solares](https://bryan-solares.com)
 
-### Puede buscarme en mis redes sociales
-[Instagram](https://instagram.com/solares.josue.25)
+<h3 align="center">
+🚀😌 SOY UN APASIONADO A LA TECNOLOGÍA, SIEMPRE CON HAMBRE DE CONOCIMIENTO 🚀😌
+</h3>
 
-### 🚀😌 SOY UN APASIONADO A LA TECNOLOGÍA, SIEMPRE CON HAMBRE DE CONOCIMIENTO 🚀😌
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bryanSolares&show_icons=true&theme=dracula&rank_icon=github" alt="Bryan Solares" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanSolares&layout=compact" alt="Lenguajes utilizados" />
 
 <!---
 bryan-solares/bryan-solares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

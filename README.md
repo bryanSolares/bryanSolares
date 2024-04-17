@@ -1,30 +1,25 @@
-<p align="center" width="300">
+<!--<p align="center" width="300">
    <img align="center" width="200" src="" />
    <h3 align="center">👋 Hola mi nombre es Bryan Solares 👋</h3>
-</p>
+</p>-->
 
-<p align="center"> 👀 <strong>Soy un desarrollador desarrollo backend</strong>, me he esmerado en estar en constante aprendizaje 🧑‍💻📚 y evolución 👣. </p>
+<p align="center"> 👀 <strong>Soy un desarrollador backend y arquitecto AWS</strong>, me he esmerado en estar en constante aprendizaje 🧑‍💻📚 y evolución 👣. </p>
 <p align="center"> Me encantan los retos 🥳 y poder solucionar problemas de la forma más eficiente posible 😊. </p>
-<p align="center"> Mi próximo objetivo a corto y  mediado plazo es convertirve en un desarrollador <strong> 🎉🎉🎉🎊🎊 FullStack 🎊🎊🎉🎉🎉</strong>
 
 ## Conocimientos:
+ * AWS
  * Javascript
  * Typescript
- * HTML5
- * CSS3
+ * HTML
+ * CSS
  
  * Angular
  * Ionic
  
- * Nodejs
+ * NodeJS
  * SQL SERVER
  * Git
    
-## En proceso de aprendizaje:
- * React
- * Tailwind
- * Graphql
-
 ### Me puedes contactar mediante los correos 📫
   - solares.josue@outlook.com 
   - solares.bryan@outlook.com

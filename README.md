@@ -3,6 +3,8 @@
 <img align="left" alt="AWS Developer Associate" src="https://github.com/bryanSolares/bryanSolares/blob/main/aws-certified-solutions-architect-associate.png?raw=true" width="100" height="100" />
 </div>
 <br/>
+<br/>
+<br/>
 <h1 align="center">👋 Hola mi nombre es Bryan Solares 👋</h1>
 
 <p align="center"> 👀 <strong>Soy un desarrollador backend y arquitecto AWS</strong>, me he esmerado en estar en constante aprendizaje 🧑‍💻📚 y evolución 👣. </p>

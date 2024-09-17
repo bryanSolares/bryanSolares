@@ -14,7 +14,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,bash,nodejs,docker,git,express,nestjs,spring,sequelize,html,css,js,ts,angular,java,github,gitlab,heroku,graphql,jest,mysql,postgres,mongodb,firebase,redis,nginx,jenkins,kubernetes,terraform&perline=8" />
+    <!--<img src="https://skillicons.dev/icons?i=aws,bash,nodejs,docker,git,express,nestjs,spring,sequelize,html,css,js,ts,angular,java,github,gitlab,heroku,graphql,jest,mysql,postgres,mongodb,firebase,redis,nginx,jenkins,kubernetes,terraform&perline=8" />-->
+    <img src="https://skillicons.dev/icons?i=aws,cloudflare,nodejs,rabbitmq,express,npm,yarn,pnpm,nestjs,graphql,java,spring,github,githubactions,gitlab,git,sequelize,prisma,mysql,postgres,mongodb,redis,sqlite,linux,redhat,bash,html,css,js,ts,angular,heroku,firebase,nginx,jest,docker,kubernetes,terraform,jenkins&perline=10" />
+    
   </a>
 </p>
 
